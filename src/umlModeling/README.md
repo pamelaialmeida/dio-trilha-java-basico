@@ -4,4 +4,4 @@ In this folder you will find all content related to the exercises for the UML mo
 This is the Class UML that I have created for the exercise:
 </br>
 
-<img src="/dio-trilha-java-basico/src/uml-modeling/resources/images/IPhone Class UML.png" alt="Iphone Class UML">
+<img src="https://github.com/pamelaialmeida/dio-trilha-java-basico/blob/master/src/umlModeling/resources/images/IPhone%20Class%20UML.png" alt="Iphone Class UML">
