@@ -8,6 +8,6 @@ Exercises related to the Dio Bootcamp - Java Basics
   </tr>
   <tr>
     <td>IPhone UML Modeling</td>
-    <td>src/umlModeling</td>
+    <td><a href="src/umlModeling">src/umlModeling</a></td>
   </tr>
 </table>
